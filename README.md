@@ -27,12 +27,12 @@ USAGE
 Feel free to modify the css properties
 
 DEMO
-
 ![appscreenshot](https://github.com/user-attachments/assets/af5e4774-a0ea-4b48-baf6-857ea97fa877)
 
 CODE STRUCTURE
 
 index.html
+
 Main.css
 
 KEY FLEXBOX PROPETIES
