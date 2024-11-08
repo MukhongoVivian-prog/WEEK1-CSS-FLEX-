@@ -1,3 +1,4 @@
+@media screen{
 .container {
     margin: 120px auto;
     width: 800px;
@@ -63,5 +64,7 @@
 }
 div:hover{
     transition-delay: 0.2s;
-    background-color: #d16519;
+    background-color: #1096ea;
 }
+
+  }
